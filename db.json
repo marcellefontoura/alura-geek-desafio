@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Stormtrooper",
+      "imagem": "https://s3-alpha-sig.figma.com/img/7288/617c/839c11fc3105027e126215f3647fa5b0?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TF2~LY1bK6eNiPVf5SQQb9wgG6ThvGayuLYdj8Aqy3qYwHEX4B5N4omlYHrpjfdZh0puSpGsh2k2znfsIRaz~C-gzSG2OrSkjxrf28Y2O93NTzFU4VbP7ERa4mVRtfF7vxNvjvL2ZQtD9XIWqEtHjHRlRjlsnCuv5DHcoVD9uN4yuCkVJXsskfVsHMP1vXw-IpcvyWsCdDJYGNfTlCzZ-C89R7KIYWs6DKTdt1ks4yvlk0AVM3MCjuWhaId8sDDFk-FxeyhvCkDMeATPTbIxyJJiwQ9jssea4x4e2fhUuMUAO6iztNNQLaxMcIwtdJv4b4FR3FicHAGUB4yEZRrLpg__",
+      "alt": "foto do copo stormtrooper",
+      "quantidade": 5,
+      "preco": 100,
+      "categoria": "utensílios"
+    },
+    {
+      "id": 2,
+      "nome": "GameBoy",
+      "imagem": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q5P1NmVHOpIaOFKv3IUA0h1a74Vf31STrpyaT-8OftCWb8fA8gbY6iO9RZFEAMGG6V-revivPrs2y787ORc~AI5~L-FlUhJ1y3xMDNv4CPEy2zuc~Fvfaf5jvB3TNWVnxgZIvhgg7UaeYSww035cGTuETBgDRcATeKVxNKg1AHHiyDXETZ0BxiAA4gJsiBYdaex~SgXwJVcSBlKW1zaxq7Ll7nw6PPigaInmpaQl5RWH31uIeEH0VeKlVgiOrz5WQGtiI7KrohueACBZts24TduRGOKDUlmMfrLmKGjwA1KCS8yFj7ohudcSECfr6X85rSHKArPSt7jQKmVTrDnepg__",
+      "alt": "foto do gameboy",
+      "quantidade": 5,
+      "preco": 100,
+      "categoria": "jogos"
+    }
+  ]
+}
